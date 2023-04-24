@@ -1,3 +1,4 @@
+#!/usr/bin/python
 
 alphabet = 0
 while alphabet < 1:
