@@ -2,7 +2,7 @@
 
 import sys
 
-num = str(sys.argv[1])
+lettre = str(sys.argv[1])
 
 alphabet = ("abcdefghijklmnopqrstuvwxyz")
 
